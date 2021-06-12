@@ -1,0 +1,39 @@
+body {
+    background-color: white;
+}
+
+.d-flex{
+    width: 50% !important;
+    border-radius: 15px;
+}
+
+.banner img {
+    width: 100%;
+    border-radius: 15px;
+}
+
+.custom-login {
+    height: 500px;
+    padding-top: 100px;
+}
+
+.pos {
+    margin: auto;
+}
+
+.products .card {
+    border-radius: 15px;
+}
+
+.btn-dark {
+    border-radius: 10px;
+}
+
+.detail-img {
+    height: 400px;
+}
+.cart-list-devider {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
